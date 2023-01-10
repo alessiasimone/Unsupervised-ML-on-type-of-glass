@@ -1,4 +1,3 @@
 # Report
-Data analysis about type of glass dataset by UCI 
-Repository. Univariate Analysis, PCA, clustering 
-(K-means, k-medoids and model based clustering) 
+The study of classification of types of glass is an important step regarding forensic science and it was motivated by criminological investigation. At the scene of the crime, the glass left can be used as evidence...if it is correctly identified!
+This report concern the application of unsupervised machine learning algorithms about type of glass dataset by UCI Repository, in particular, the univariate analysis was conducted in detail for each variable, then the features was selected throw the PCA algorithm and k-means, k-medoid and model based clustering was applyied in order to understand the behavior of the data and assign unknown label to the dataset. Then, a comparison with the ground truth was strictly necessary due to the missing domain knowledge. 
